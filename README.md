@@ -61,7 +61,7 @@ This Power BI dashboard visualizes the <b>Mobile Legends: Bang Bang Professional
 ---
 
 ## 🔗 Dashboard Access
-[View Power BI Dashboard (Interactive)](https://app.powerbi.com/view?r=YOUR-LINK-HERE)
+[View Power BI Dashboard (Interactive)]()
 
 ---
 
