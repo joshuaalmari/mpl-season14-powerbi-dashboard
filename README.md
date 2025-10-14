@@ -30,7 +30,7 @@ This Power BI dashboard visualizes the <b>Mobile Legends: Bang Bang Professional
 
 ## 📌 Key Metrics & Insights
 - **🏅 Matches Won & Lost** – Overall team performance comparison  
-- **💰 Total Gold Earned** – Aggregated team earnings  
+- **💰 Total Gold Earned** – In-game gold accumulated by teams to buy equipment.  
 - **🐉 Objective Control** – Lord and Turtle kills  
 - **🎯 KDA (Kill–Death–Assist)** – Team and player efficiency  
 - **🧙 Hero Analytics** – Win, Pick, and Ban rates per hero
