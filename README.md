@@ -15,7 +15,7 @@ This Power BI dashboard visualizes the <b>Mobile Legends: Bang Bang Professional
   Extracted raw HTML tables containing match results, hero pick–ban rates, and performance metrics.
 
 - **🧹 Data Standardization:**  
-  Cleaned and structured the scraped data in <b>Excel Power Query (PQuery)</b>:  
+  Cleaned and structured the scraped data in <b>Excel</b>:  
   - Normalized team and hero naming conventions  
   - Converted percentages and counts into numeric data types  
   - Combined multiple pages/tables into a single structured dataset ready for Power BI  
@@ -39,7 +39,7 @@ This Power BI dashboard visualizes the <b>Mobile Legends: Bang Bang Professional
 
 ## 🛠️ Tools & Technologies
 - **Python (Beautiful Soup)** – Web scraping of MPL statistics  
-- **Excel Power Query** – Data transformation and cleaning  
+- **Excel** – Data transformation and cleaning  
 - **Power BI** – Data modeling and interactive visualization  
 - **Pandas** – Light preprocessing and CSV handling  
 
