@@ -61,7 +61,7 @@ This Power BI dashboard visualizes the <b>Mobile Legends: Bang Bang Professional
 ---
 
 ## 🔗 Dashboard Access
-[View Power BI Dashboard (Interactive)]()
+[View Power BI Dashboard (Interactive)](https://app.powerbi.com/view?r=eyJrIjoiN2E2ZDU0MGUtMDBmOS00MDFkLWE3NDEtNGIwOWMwOWZhNmUxIiwidCI6IjRkYTk4NTcxLWRjZWEtNDgzOS04ZmIxLTBiZGQ1ZGM5NjlmOSIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true)
 
 ---
 
@@ -73,9 +73,9 @@ This Power BI dashboard visualizes the <b>Mobile Legends: Bang Bang Professional
 ---
 
 ## 📥 Resources
-- [Excel Data Template](data-prep/mpl_match_data_template.xlsx)  
-- [Power BI File (.pbix)](dashboard/mpl_s14_dashboard.pbix)  
-- [Python Scraper Script (Beautiful Soup)](data-prep/data_extraction_bs4.py)
+- [Excel Data Template](data-prep/MPLS14 - Cleaned.xlsx)  
+- [Power BI File (.pbix)](dashboard/MPLS14.pbix)  
+- [Python Scraper Script (Beautiful Soup)](data-prep/Data Scraping with Python (Beautiful Soup).py)
 
 ---
 
