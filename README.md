@@ -1,5 +1,5 @@
 # 🎮 MPL Season 14 Dashboard – Power BI
-
+> 🔗 Return to the main [Data Analytics Portfolio](https://github.com/joshuaalmari/data-analytics-portfolio) for more projects.
 ---
 
 ## 🏆 Project Overview
