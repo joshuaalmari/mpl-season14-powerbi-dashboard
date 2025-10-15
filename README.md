@@ -62,7 +62,7 @@ This Power BI dashboard visualizes the <b>Mobile Legends: Bang Bang Professional
 
 ## 📁 Repository Contents
 - `README.md` – Project documentation  
-- `data-prep/` – Excel templates and standardized CSVs  
+- `data-prep/` – Python script, excel templates and standardized CSVs  
 - `dashboard/` – Power BI file and dashboard screenshots  
 - `assets/` – Visuals, banners, and logos  
 
