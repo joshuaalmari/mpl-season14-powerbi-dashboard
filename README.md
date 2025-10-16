@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/joshuaalmari/data-analytics-portfolio" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub%20↗️%20DATA%20ANALYTICS%20PORTFOLIO-2f2f2f?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/CLICK%20TO%20RETURN-0078D4?style=for-the-badge">
+    <img src="https://img.shields.io/badge/DATA%20ANALYTICS%20PORTFOLIO-2f2f2f?style=for-the-badge"><img src="https://img.shields.io/badge/CLICK%20TO%20RETURN-0078D4?style=for-the-badge">
   </a>
 </p>
 
@@ -69,7 +69,7 @@ This Power BI dashboard visualizes the <b>Mobile Legends: Bang Bang Professional
 ---
 
 ## 🔗 Dashboard Access
-[View Power BI Dashboard (Interactive)](https://app.powerbi.com/view?r=eyJrIjoiN2E2ZDU0MGUtMDBmOS00MDFkLWE3NDEtNGIwOWMwOWZhNmUxIiwidCI6IjRkYTk4NTcxLWRjZWEtNDgzOS04ZmIxLTBiZGQ1ZGM5NjlmOSIsImMiOjEwfQ%3D%3D)
+[View Power BI Dashboard ↗](https://app.powerbi.com/view?r=eyJrIjoiN2E2ZDU0MGUtMDBmOS00MDFkLWE3NDEtNGIwOWMwOWZhNmUxIiwidCI6IjRkYTk4NTcxLWRjZWEtNDgzOS04ZmIxLTBiZGQ1ZGM5NjlmOSIsImMiOjEwfQ%3D%3D)
 
 ---
 
